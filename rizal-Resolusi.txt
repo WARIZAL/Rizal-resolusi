@@ -1,7 +1,10 @@
 Rizal RESOLUSI
 -Konsisten belajar html & css
 -Konsisten blajar bahasa pemrograman js & php 
+-di video sandika galih dulu baru ke w3school
 -Lansung mengerjakan tugas yang di kasih oleh dosen
 
 menyelesaikan roadmap by. Kamran Ahmed
-https://roadmap.sh/
+https://roadmap.sh
+
+
