@@ -4,11 +4,16 @@ RENCANA KONTEN NEMPIN
 -css
 
 -js
--php
+*ES6
+*framework js
+  ^agular
+  ^react
+  
+-php framework
+  ^laravel
 
 bahasa pemrograman dasar
 c/c++
 lainnya 
-python
 java
 
