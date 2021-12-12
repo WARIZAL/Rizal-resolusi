@@ -5,17 +5,18 @@ RENCANA KONTEN NEMPIN
 
 -js
 *ES6
-*Frameworks js
+
+*framework js
+  ^agular
+  ^react
   ^vue
 -php framworks
   ^laravel
   ^interview
   ^vlogs
-larapel
 
 bahasa pemrograman dasar
 c/c++
 lainnya 
-python
 java
 
