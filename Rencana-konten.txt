@@ -4,7 +4,14 @@ RENCANA KONTEN NEMPIN
 -css
 
 -js
--php
+*ES6
+*Frameworks js
+  ^vue
+-php framworks
+  ^laravel
+  ^interview
+  ^vlogs
+larapel
 
 bahasa pemrograman dasar
 c/c++
