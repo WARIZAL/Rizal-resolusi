@@ -5,12 +5,15 @@ RENCANA KONTEN NEMPIN
 
 -js
 *ES6
+
 *framework js
   ^agular
   ^react
-  
--php framework
+  ^vue
+-php framworks
   ^laravel
+  ^interview
+  ^vlogs
 
 bahasa pemrograman dasar
 c/c++
