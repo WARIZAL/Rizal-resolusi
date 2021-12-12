@@ -1,0 +1,14 @@
+RENCANA KONTEN NEMPIN
+-pengenalan menarik
+-html
+-css
+
+-js
+-php
+
+bahasa pemrograman dasar
+c/c++
+lainnya 
+python
+java
+
